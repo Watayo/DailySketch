@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<group>
+	<attenuation>0.005005</attenuation>
+	<scale>80</scale>
+	<outputNum>6</outputNum>
+	<normalMode>0</normalMode>
+	<draw__>1</draw__>
+	<drawWireframe__>0</drawWireframe__>
+	<drawFaces__>0</drawFaces__>
+	<drawVertices__>0</drawVertices__>
+	<vColor>0.587901, 1, 0.85269, 1</vColor>
+</group>
